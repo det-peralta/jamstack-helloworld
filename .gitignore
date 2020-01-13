@@ -38,7 +38,8 @@ yarn-error.log
 *.css
 *.htm
 *.html
-*.js
+*.prettierignore
+*.prettierrc
 *.jsp
 *.php
 *.rss
