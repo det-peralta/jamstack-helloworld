@@ -25,6 +25,10 @@
 
 ```gatsby new hello-world https://github.com/gatsbyjs/gatsby-starter-hello-world```
 
+6. Install  deps:
+ ```npm install --save gatsby-transformer-remark```
+ ```npm install --save gatsby-source-filesystem```
+
 ### JAMStack
 
 "Fast and secure sites and apps delivered by pre-rendering files and serving them directly from a CDN, removing the requirement to manage or run web servers."
