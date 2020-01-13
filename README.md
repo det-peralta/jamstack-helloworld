@@ -1,4 +1,4 @@
-## Setup on Ubuntu
+## JAMStack Ubuntu
 1. Install **NVM**:
 
 ```curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.1/install.sh | bash```
@@ -34,6 +34,12 @@ in https://cloudinary.com/blog/developer_experience_for_a_modern_web_jamstack_de
 
 - https://jamstack.org/
 - https://jamstack.wtf/
+
+## Gatsby
+
+"Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps"
+
+- https://www.gatsbyjs.org/
 
 ### Deploy 
 
